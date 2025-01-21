@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**isinhah/isinhah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <samp>
+    sobre mim <br>
+      - experiência em desenvolvimento back-end<br>
+      - estudante de análise e desenvolvimento de sistemas<br>
+    <br>
+    habilidades<br>
+      - java<br>
+      - spring boot<br>
+      - postgresql | mysql | oracle sql<br>
+      - junit | mockito<br>
+      - docker<br>
+      - rabbitmq<br>
+    entre em contato!<br>
+    - <a href="https://www.linkedin.com/in/isabel-henrique/" target="_blank">linkedin</a><br>
+    - <a href="mailto:contato.isabelhenrique@gmail.com" target="_blank">gmail</a>
+  </samp>
+</p>
