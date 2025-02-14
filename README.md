@@ -13,7 +13,10 @@
       - rabbitmq<br>
       - microsserviços<br>
     <br>
-    entre em contato<br>
+    estudando<br>
+      - computação em nuvem: aws<br>
+    <br>
+    entre em contato!<br>
     - <a href="https://www.linkedin.com/in/isabel-henrique/" target="_blank">linkedin</a><br>
     - <a href="mailto:contato.isabelhenrique@gmail.com" target="_blank">gmail</a>
   </samp>
