@@ -5,16 +5,12 @@
       - estudante de análise e desenvolvimento de sistemas<br>
     <br>
     habilidades<br>
-      - java<br>
-      - spring boot<br>
-      - postgresql, mysql, oracle sql<br>
-      - junit, mockito<br>
-      - docker<br>
-      - rabbitmq<br>
-      - microsserviços<br>
-    <br>
-    estudando<br>
-      - computação em nuvem: aws<br>
+      - linguagem: java<br>
+      - framework: spring boot<br>
+      - bancos de dados: postgresql, mysql, oracle sql developer<br>
+      - testes unitários: junit, mockito<br>
+      - mensageria: rabbitmq<br>
+      - microservices<br>
     <br>
     entre em contato!<br>
     - <a href="https://www.linkedin.com/in/isabel-henrique/" target="_blank">linkedin</a><br>
