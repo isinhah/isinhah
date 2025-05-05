@@ -1,4 +1,4 @@
-#### Olá! Eu sou a Isabel! 👋
+### Olá! Eu sou a Isabel! 👋
 
 <p>
   <samp>
@@ -20,5 +20,5 @@
 </p>
 
 <div align="center">
-     <img width=190 src="./assets/main.gif"/>    
+     <img width=200 src="./assets/main.gif">    
 </div>
