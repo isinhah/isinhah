@@ -1,4 +1,4 @@
-### Olá! Eu sou a Isabel! 👋
+### Olá! Eu sou a Isabel 👋
 
 <p>
   <samp>
