@@ -1,16 +1,24 @@
-### Hi there 👋
+#### Olá! Eu sou a Isabel! 👋
 
-<!--
-**isinhah/isinhah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <samp>
+    sobre mim <br>
+      - desenvolvedora back-end<br>
+      - estudante de análise e desenvolvimento de sistemas<br>
+    <br>
+    habilidades<br>
+      - java<br>
+      - spring boot<br>
+      - postgresql, mysql<br>
+      - junit, mockito<br>
+      - rabbitmq<br>
+    <br>
+    entre em contato!<br>
+    - <a href="https://www.linkedin.com/in/isabel-henrique/" target="_blank">linkedin</a><br>
+    - <a href="mailto:contato.isabelhenrique@gmail.com" target="_blank">gmail</a>
+  </samp>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+     <img width=190 src="./assets/main.gif"/>    
+</div>
