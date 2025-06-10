@@ -12,6 +12,7 @@
       - postgresql, mysql<br>
       - junit, mockito<br>
       - rabbitmq<br>
+      - docker<br>
     <br>
     entre em contato!<br>
     - <a href="https://www.linkedin.com/in/isabel-henrique/" target="_blank">linkedin</a><br>
