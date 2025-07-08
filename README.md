@@ -16,7 +16,7 @@
     <br>
     entre em contato!<br>
     - <a href="https://www.linkedin.com/in/isabel-henrique/" target="_blank">linkedin</a><br>
-    - <a href="mailto:contato.isabelhenrique@gmail.com" target="_blank">gmail</a>
+    - <a href="mailto:isabel.henrique.dev@gmail.com" target="_blank">gmail</a>
   </samp>
 </p>
 
