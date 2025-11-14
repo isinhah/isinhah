@@ -1,7 +1,4 @@
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png"  width="25" height="25"/> Olá! Eu sou a Isabel
-[`linkedin`](https://www.linkedin.com/in/isabel-henrique/) • [`gmail`](mailto:contato.isabelhenrique@gmail.com)
-
-Desenvolvedora Back-end e estudante de Análise e Desenvolvimento de Sistemas
+###  Olá! Eu sou a Isabel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png"  width="25" height="25"/>
 
 <p><b>Tecnologias</b></p>
 
@@ -11,6 +8,6 @@ Desenvolvedora Back-end e estudante de Análise e Desenvolvimento de Sistemas
 
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 
-<p><b>Ferramentas</b></p>
+<p><b>Conecte-se comigo!</b></p>
 
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=white)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/isabel-henrique/) [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:contato.isabelhenrique@gmail.com)](mailto:contato.isabelhenrique@gmail.com)
