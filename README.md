@@ -2,7 +2,10 @@
 
 <p><b>Tecnologias</b></p>
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=flat-square&logo=RabbitMQ&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=flat-square&logo=RabbitMQ&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
 
 <p><b>Banco de dados</b></p>
 
