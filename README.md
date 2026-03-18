@@ -2,15 +2,19 @@
 
 <p><b>Tecnologias</b></p>
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring&logoColor=white) 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=flat-square&logo=RabbitMQ&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk&logoColor=white) 
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=flat&logo=RabbitMQ&logoColor=white)
 
-<p><b>Banco de dados</b></p>
+<p><b>Bancos de dados</b></p>
 
-![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 
 <p><b>Conecte-se comigo!</b></p>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/isabel-henrique/) [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:contato.isabelhenrique@gmail.com)](mailto:contato.isabelhenrique@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/isabel-henrique/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:contato.isabelhenrique@gmail.com)](mailto:contato.isabelhenrique@gmail.com)
